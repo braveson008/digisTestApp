@@ -1,0 +1,4 @@
+export default {
+  SET_API_RESULT: 'SET_API_RESULT',
+  SET_API_ERROR: 'SET_API_ERROR',
+};
